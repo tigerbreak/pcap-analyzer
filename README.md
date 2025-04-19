@@ -13,7 +13,7 @@
 
 ## 界面预览
 
-![功能界面](https://github.com/tigerbreak/pcap-analyzer/raw/master/screenshots/main_window.png)
+![功能界面](screenshots/1.png)
 
 ## 安装说明
 
